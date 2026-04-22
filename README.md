@@ -19,8 +19,3 @@ Design dark com efeito liquid glass, responsivo para mobile.
 - **Serviços** — o que ofereço
 - **Contato** — WhatsApp e e-mail
 
-## Contato
-
-- WhatsApp: [11 96417-2271](https://wa.me/5511964172271)
-- E-mail: d.reprogramado@gmail.com
-- GitHub: [Reprogramado](https://github.com/Reprogramado)
